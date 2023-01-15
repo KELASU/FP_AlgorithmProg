@@ -17,7 +17,10 @@ I have always loved making games since I was young whether it is a physical game
 	It helps make programming python easier when there is a need to generate random value like random integer.
 
 ## Screen shotS
-
+### Battle Page
+<img src="/project documentation/ss1.jpg" alt="ss1" >
+### Game over victory screen
+<img src="/project documentation/ss2.jpg" alt="ss2" >
 ## Reflection
 I learned a lot of things when making this project actually I would like to say a bit too much in such a short amount of time in making this project and I sometimes still have troubles remembering what I was doing or what variables was there and what was not there. It was stressful since I had to change project concepts 3 times because of uncertainties, data lost, confused and so on, but after I see the final product of my project, I felt relieved it finished on time. But if I were to be honest making games with unity is way easier than pygame… and I wish to no use pygame anymore.
 ## Demo link: 
